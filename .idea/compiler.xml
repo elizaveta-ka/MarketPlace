@@ -20,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Authorize" options="-parameters" />
       <module name="Orchestrator" options="-parameters" />
       <module name="Parser" options="-parameters" />
       <module name="redisHamster" options="-parameters" />

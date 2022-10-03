@@ -8,15 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="redisHamster" />
         <module name="Orchestrator" />
-        <module name="Parser" />
         <module name="Authorize" />
+        <module name="Parser" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Orchestrator" target="17" />
-      <module name="Parser" target="17" />
-      <module name="redisHamster" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

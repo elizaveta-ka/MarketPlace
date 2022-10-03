@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MarketPlace.iml" filepath="$PROJECT_DIR$/MarketPlace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CoreOrchestrator/Orchestrator.iml" filepath="$PROJECT_DIR$/CoreOrchestrator/Orchestrator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Parser/Parser.iml" filepath="$PROJECT_DIR$/Parser/Parser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DataService/redisHamster.iml" filepath="$PROJECT_DIR$/DataService/redisHamster.iml" />
     </modules>
   </component>
 </project>
